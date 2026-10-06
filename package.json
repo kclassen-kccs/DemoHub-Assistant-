@@ -1,0 +1,24 @@
+{
+  "name": "outlook-directory-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kclassen-kccs/DemoHub-Assistant-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kclassen-kccs/DemoHub-Assistant-/issues"
+  },
+  "homepage": "https://github.com/kclassen-kccs/DemoHub-Assistant-#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "playwright-core": "^1.63.0"
+  }
+}
